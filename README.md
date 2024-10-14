@@ -5,7 +5,7 @@
 
         <div class="portfolio-item">
             <h3>About</h3>
-            <img src="Port/img/1.png" alt="About" class="img-fluid mb-4">
+            <img src="https://github.com/Salman-2283/Portfolio/blob/bba59d2e9e0d1ed78e1c16feb80ec8360f1b7a40/Port/img/1.png" alt="About" class="img-fluid mb-4">
         </div>
 
         <div class="portfolio-item">
