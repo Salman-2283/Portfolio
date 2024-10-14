@@ -5,7 +5,7 @@
         <h2 class="mb-5">Portfolio Photos</h2>
         
         <h3>Experience</h3>
-        <img src="https://salman-2283.github.io/Blume-Project/Screenshots/Storage.jpg" alt="Experience" class="img-fluid mb-4">
+        <img src="Port/img/1.png" alt="Experience" class="img-fluid mb-4">
         
         <h3>Education</h3>
         <img src="https://salman-2283.github.io/Blume-Project/Screenshots/Static%20Website.jpg" alt="Education" class="img-fluid mb-4">
